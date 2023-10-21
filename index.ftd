@@ -42,7 +42,7 @@ border-radius.px: 10
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
 -- profile.wrapper: ketan bhole
-avatar: $assets.files.images.image1.jpg
+avatar: $assets.files.images.tiger.jpeg
 city: Nagpur
 github-url: https://github.com/Bholeketan
 linkedin-url: https://www.linkedin.com/in/ketan-bhole-114949240/
